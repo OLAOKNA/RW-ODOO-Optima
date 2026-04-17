@@ -1,0 +1,1482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ROOT>
+  <DOKUMENT>
+    <NAGLOWEK>
+      <TYP_DOKUMENTU>304</TYP_DOKUMENTU>
+      <RODZAJ_DOKUMENTU>304000</RODZAJ_DOKUMENTU>
+      <NUMER_PELNY>ZL25A1-1270 B P0</NUMER_PELNY>
+      <DATA_DOKUMENTU>2025-12-31</DATA_DOKUMENTU>
+      <DATA_WYSTAWIENIA>2025-12-31</DATA_WYSTAWIENIA>
+      <DATA_OPERACJI>2025-12-31</DATA_OPERACJI>
+      <TERMIN_ZWROTU_KAUCJI />
+      <KOREKTA>0</KOREKTA>
+      <DETAL />
+      <TYP_NETTO_BRUTTO />
+      <RABAT />
+      <OPIS>ZL25A1-1270 B P0</OPIS>
+      <PLATNIK>
+        <KOD>!NIEOKREŚLONY!</KOD>
+        <NIP />
+        <GLN />
+        <NAZWA>!NIEOKREŚLONY!</NAZWA>
+        <ADRES>
+          <KOD_POCZTOWY />
+          <MIASTO />
+          <ULICA />
+          <KRAJ />
+        </ADRES>
+      </PLATNIK>
+      <ODBIORCA>
+        <KOD>!NIEOKREŚLONY!</KOD>
+        <NIP />
+        <GLN />
+        <NAZWA>!NIEOKREŚLONY!</NAZWA>
+        <ADRES>
+          <KOD_POCZTOWY />
+          <MIASTO />
+          <ULICA />
+          <KRAJ />
+        </ADRES>
+      </ODBIORCA>
+      <SPRZEDAWCA>
+        <NIP>5920201886</NIP>
+        <GLN />
+        <NAZWA>OLA OKNA Sp. z o.o.</NAZWA>
+        <ADRES>
+          <KOD_POCZTOWY>83-260</KOD_POCZTOWY>
+          <MIASTO>Kaliska</MIASTO>
+          <ULICA>ul. Firmowa 12</ULICA>
+          <KRAJ>PL</KRAJ>
+        </ADRES>
+        <NUMER_KONTA_BANKOWEGO />
+        <NAZWA_BANKU />
+      </SPRZEDAWCA>
+      <WALUTA>
+        <SYMBOL />
+      </WALUTA>
+      <PLATNOSC>
+        <FORMA />
+        <TERMIN />
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+      </PLATNOSC>
+      <MAGAZYN_ZRODLOWY>Preprodukcja</MAGAZYN_ZRODLOWY>
+      <MAGAZYN_DOCELOWY>Strefa wydań</MAGAZYN_DOCELOWY>
+    </NAGLOWEK>
+    <POZYCJE>
+      <POZYCJA>
+        <LP>1</LP>
+        <TOWAR>
+          <KOD>17046</KOD>
+          <NAZWA>EL76 wzmocnienie skrz. wys. 42x53,6/43,1x2</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>123.41</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>2</LP>
+        <TOWAR>
+          <KOD>17131</KOD>
+          <NAZWA>EL76 Wzmocnienie ramy 30x27,6x1,5</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>78.806</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>3</LP>
+        <TOWAR>
+          <KOD>2824919</KOD>
+          <NAZWA>MK.250-1 BLOKADA RYGLUJĄCA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>16.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>4</LP>
+        <TOWAR>
+          <KOD>4931451</KOD>
+          <NAZWA>DFE  ELEMENT DWUFUNKCYJNY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>5</LP>
+        <TOWAR>
+          <KOD>4934245</KOD>
+          <NAZWA>OS.SE.1025-1 RAMIĘ ROZWÓRKI</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>6</LP>
+        <TOWAR>
+          <KOD>4937821</KOD>
+          <NAZWA>DFE-TFE CZĘŚĆ RAMOWA ZN</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>7</LP>
+        <TOWAR>
+          <KOD>4938163</KOD>
+          <NAZWA>GAM.2300-3 ZASUWNICA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>8</LP>
+        <TOWAR>
+          <KOD>4939745</KOD>
+          <NAZWA>G.D.15,5 PŁYTKA ZABEZPIECZAJĄCA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>9</LP>
+        <TOWAR>
+          <KOD>4940652</KOD>
+          <NAZWA>M.750-1 BLOKADA RYGLUJĄCA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>10</LP>
+        <TOWAR>
+          <KOD>4940653</KOD>
+          <NAZWA>MK.750-1 BLOKADA RYGLUJĄCA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>11</LP>
+        <TOWAR>
+          <KOD>4942706</KOD>
+          <NAZWA>V.AK.450-1 PRZEDŁUŻACZ</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>12</LP>
+        <TOWAR>
+          <KOD>4974641</KOD>
+          <NAZWA>SBS.K.169.P7 ZACZEP ANTYWŁAMANIOWY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>112.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>13</LP>
+        <TOWAR>
+          <KOD>4974642</KOD>
+          <NAZWA>SBK.K.169.P7 ZACZEP UCHYLNY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>14</LP>
+        <TOWAR>
+          <KOD>5015697</KOD>
+          <NAZWA>DB.IF OGRANICZNIK ROZWARCIA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>15</LP>
+        <TOWAR>
+          <KOD>5019146</KOD>
+          <NAZWA>E1.N NAROŻNIK</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>48.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>16</LP>
+        <TOWAR>
+          <KOD>5060652</KOD>
+          <NAZWA>E1.SE.N NAROŻNIK</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>24.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>17</LP>
+        <TOWAR>
+          <KOD>5077819</KOD>
+          <NAZWA>DB.K.IF.205. PRAWY ZACZEP OGRANICZNIKA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>18</LP>
+        <TOWAR>
+          <KOD>5100458</KOD>
+          <NAZWA>ECKLAGER EL.K.IF-N.205.RS (ZAWIAS RAMOWY)</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>19</LP>
+        <TOWAR>
+          <KOD>5100557</KOD>
+          <NAZWA>SCHERE SK.IF-N.205.RS (ROZWÓRKA)</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>20</LP>
+        <TOWAR>
+          <KOD>5100821</KOD>
+          <NAZWA>FL.IF-N. PRAWY ZAWIAS SKRZYDŁOWY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>21</LP>
+        <TOWAR>
+          <KOD>5103.2x99 nb</KOD>
+          <NAZWA>EL76 Ościeżnica MD 69mm Bikolor nośnik biały</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>88.904</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>22</LP>
+        <TOWAR>
+          <KOD>5109317</KOD>
+          <NAZWA>AP.K.IF.13-4-4. PRAWY ADAPTER</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>23</LP>
+        <TOWAR>
+          <KOD>5109323</KOD>
+          <NAZWA>FLS.K.IF.29-13. PRAWA SZYNA ZAWIASU</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>9.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>24</LP>
+        <TOWAR>
+          <KOD>5111818</KOD>
+          <NAZWA>SBA.K.169.P7 ZACZEP PROSTY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>117.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>25</LP>
+        <TOWAR>
+          <KOD>5151.2x99 nb</KOD>
+          <NAZWA>EL76 Skrzydło 104mm 6K Bikolor nośnik biały</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>69.94200000000001</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>26</LP>
+        <TOWAR>
+          <KOD>5310.1358</KOD>
+          <NAZWA>EL76 Listwa R44-45 S48-49 Biały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>140.84</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>27</LP>
+        <TOWAR>
+          <KOD>5077820</KOD>
+          <NAZWA>DB.K.IF.205. LEWY ZACZEP OGRANICZNIKA</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>28</LP>
+        <TOWAR>
+          <KOD>5100459</KOD>
+          <NAZWA>ECKLAGER EL.K.IF-N.205.LS (ZAWIAS RAMOWY)</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>29</LP>
+        <TOWAR>
+          <KOD>5100560</KOD>
+          <NAZWA>SCHERE SK.IF-N.205.LS (ROZWÓRKA)</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>30</LP>
+        <TOWAR>
+          <KOD>5100822</KOD>
+          <NAZWA>FL.IF-N. LEWY ZAWIAS SKRZYDŁOWY</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>31</LP>
+        <TOWAR>
+          <KOD>5109318</KOD>
+          <NAZWA>AP.K.IF.13-4-4. LEWY ADAPTER</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>32</LP>
+        <TOWAR>
+          <KOD>5109324</KOD>
+          <NAZWA>FLS.K.IF.29-13. LEWA SZYNA ZAWIASU</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>15.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>33</LP>
+        <TOWAR>
+          <KOD>17042</KOD>
+          <NAZWA>EL76 wzmocnienie skrzydła 30x27,6x2</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>10.242</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>34</LP>
+        <TOWAR>
+          <KOD>17051</KOD>
+          <NAZWA>EL76 wzmocnienie ramy wysokiej 42,6x30x1,5</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>7.416</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>35</LP>
+        <TOWAR>
+          <KOD>17129</KOD>
+          <NAZWA>EL76 Wzmocnienie skrzydła 39,3x27,6 pod klamkę</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>6.216</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>36</LP>
+        <TOWAR>
+          <KOD>4934244</KOD>
+          <NAZWA>OS.SE.800 RAMIĘ ROZWÓRKI</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>3.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>37</LP>
+        <TOWAR>
+          <KOD>5125.2x99 nb</KOD>
+          <NAZWA>EL76 Słupek MD 94 mm - Rama Bikolor nośnik biały</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>1.544</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>38</LP>
+        <TOWAR>
+          <KOD>5150.2x99 nb</KOD>
+          <NAZWA>EL76 Skrzydło 77mm 6K Bikolor nośnik biały</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>11.98</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>39</LP>
+        <TOWAR>
+          <KOD>5248</KOD>
+          <NAZWA>EL76 Łącznik słupka 5125 z ramą</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>6.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>40</LP>
+        <TOWAR>
+          <KOD>5309.1358</KOD>
+          <NAZWA>EL76 Listwa R48-49 S52-53 Biały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>8.876</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>41</LP>
+        <TOWAR>
+          <KOD>5301.2x99</KOD>
+          <NAZWA>EL76 Poszerzenie 100mm Bikolor</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>1.72</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>42</LP>
+        <TOWAR>
+          <KOD>4934246</KOD>
+          <NAZWA>OS.SE.1250-1 RAMIĘ ROZWÓRKI</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>12.0</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>43</LP>
+        <TOWAR>
+          <KOD>5103.3358</KOD>
+          <NAZWA>EL76 Ościeżnica MD 69mm 2xBiały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>78.788</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>44</LP>
+        <TOWAR>
+          <KOD>5151.3358</KOD>
+          <NAZWA>EL76 Skrzydło 104mm 6K 2xBiały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>68.42</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>45</LP>
+        <TOWAR>
+          <KOD>5125.3358</KOD>
+          <NAZWA>EL76 Słupek MD 94 mm - Rama 2xBiały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>0.772</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>46</LP>
+        <TOWAR>
+          <KOD>5150.3358</KOD>
+          <NAZWA>EL76 Skrzydło 77mm 6K 2xBiały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>5.99</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+      <POZYCJA>
+        <LP>47</LP>
+        <TOWAR>
+          <KOD>5301.3358</KOD>
+          <NAZWA>EL76 Poszerzenie 100mm 2xBiały Mat</NAZWA>
+          <OPIS />
+          <EAN />
+          <SWW />
+          <NUMER_KATALOGOWY />
+        </TOWAR>
+        <STAWKA_VAT>
+          <STAWKA />
+          <FLAGA />
+          <ZRODLOWA />
+        </STAWKA_VAT>
+        <ILOSC>0.86</ILOSC>
+        <CENY>
+          <POCZATKOWA_WAL_CENNIKA>0</POCZATKOWA_WAL_CENNIKA>
+          <POCZATKOWA_WAL_DOKUMENTU>0</POCZATKOWA_WAL_DOKUMENTU>
+          <PO_RABACIE_WAL_CENNIKA />
+          <PO_RABACIE_PLN />
+          <PO_RABACIE_WAL_DOKUMENTU />
+        </CENY>
+        <WALUTA>
+          <SYMBOL />
+          <KURS_L />
+          <KURS_M />
+        </WALUTA>
+        <JM />
+      </POZYCJA>
+    </POZYCJE>
+  </DOKUMENT>
+</ROOT>
